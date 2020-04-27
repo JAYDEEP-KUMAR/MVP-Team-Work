@@ -1,6 +1,6 @@
 <?php
 
-//
+    //database credentials 
     $host      = "localhost";
     $userName  = "root";
     $password1 = "";

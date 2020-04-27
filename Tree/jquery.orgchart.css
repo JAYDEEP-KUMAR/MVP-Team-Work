@@ -1,6 +1,10 @@
 div.orgChart {
     border                : 1px solid #cccccc;
-    background-color      : #ffffe8;
+    
+    /*Change backgorund color 
+    background-color      : aqua;  */ 
+   background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+
     margin                : 10px;
     padding               : 20px;
 }

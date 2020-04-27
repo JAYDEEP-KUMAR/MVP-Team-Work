@@ -31,6 +31,7 @@
             display: block;
             left: 100px;
             bottom: 20px;
+            border-radius: 5px;
         }
 
     </style>
@@ -61,7 +62,8 @@
     <div id="left" hidden>
 
         <ul id="organisation">
-            <li> Software Name
+           <li> Software Name
+   <!----    <li><adjunct>Alfred</adjunct><em>Batman</em>    ---->
                 <?php
   
 include "../db/config.php";
